@@ -1,3 +1,3 @@
 # git-course demo
 
-ff
+ff create a avatar
